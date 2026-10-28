@@ -1,0 +1,2 @@
+# The simulator uses only Python standard library.
+# Original camera app requires OpenCV, MediaPipe, pyserial (versions depend on OS/Python).

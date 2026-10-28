@@ -1,0 +1,1 @@
+No license is granted for the original 2023 thesis images or externally hosted source code. The newly written simulator and documentation should not be treated as proof of authorization to redistribute the co-authored original work. Confirm publication permissions before setting an open-source license.
